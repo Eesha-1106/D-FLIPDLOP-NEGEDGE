@@ -48,7 +48,7 @@ Check for Race Conditions: Ensure that there are no race conditions or undefined
 Developed by:Eesha Ranka 
 RegisterNumber:212224240040
 */
-module deexp7(d,clk,rst,q);
+module deexp8(d,clk,rst,q);
 input d, clk,rst;
 output reg q;
 
